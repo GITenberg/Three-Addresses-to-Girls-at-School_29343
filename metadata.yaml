@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33862
     wikipedia: http://en.wikipedia.org/wiki/James_Maurice_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29343#Three-Addresses-to-Girls-at-School
 gutenberg_issued: '2009-07-07'
 gutenberg_type: Text
 identifiers:
