@@ -1,0 +1,29 @@
+_repo: Three-Addresses-to-Girls-at-School_29343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, J. M. (James Maurice)
+    alias: Wilson, James Maurice
+    birthdate: 1836
+    deathdate: 1931
+    gutenberg_agent_id: '33862'
+    url: http://www.gutenberg.org/2009/agents/33862
+    wikipedia: http://en.wikipedia.org/wiki/James_Maurice_Wilson
+description: ''
+gutenberg_issued: '2009-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'LB'
+tableOfContents: Education -- High school education for girls -- Religion.
+title: Three Addresses to Girls at School
+url: http://www.gutenberg.org/ebooks/29343
